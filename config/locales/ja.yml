@@ -2,7 +2,7 @@ ja:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: "全<b>%{total}</b>件中 %{first}～%{last}件目の%{entry_name}を表示"
+        display_entries: "全<strong>%{total}</strong>件中 %{first}～%{last}件目の%{entry_name}を表示"
       one_page:
         display_entries:
           one: "%{entry_name} <strong>%{count}</strong>件を表示中"
